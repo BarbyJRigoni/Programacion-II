@@ -1,1 +1,5 @@
-
+#ejemplo utilizando if/else
+if condicion:
+  print('Esto es lo que hay que hacer')
+else:
+  print('Esto es lo que no hay que hacer')
